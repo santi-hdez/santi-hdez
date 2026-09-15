@@ -1,6 +1,8 @@
 # Hi there!
 
-I am Santiago Hernández, physics student, currently finishing my Master studies in Eberhard Karls Universität Tübingen. Here I share some of the projects I have developed during my free time. Mostly related with physics topics, they may be interesting for the curious ones and for the colleagues that went on the same journey of developing a scientific career.
+I am Santiago Hernández, a PhD candidate in Astrophysics at the University of Tübingen. My work focuses on the analysis and modelling of complex physical data, with a particular emphasis on astronomical observations, spectroscopy, and time-series analysis.
+
+Here I share a selection of little projects developed both out of personal interest and to explore different areas of scientific computing.
 
 <!--
 **santi-hdez/santi-hdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
